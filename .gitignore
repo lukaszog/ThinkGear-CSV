@@ -8,7 +8,7 @@ cmake-build-debug
 *.lo
 *.o
 *.obj
-
+.idea
 # Precompiled Headers
 *.gch
 *.pch
